@@ -1,7 +1,7 @@
-/* globals.css */
+/* Trimindslabs Corporate UI Standard */
 :root {
-  color: #0F172A;
-  background: #F8FAFC;
+  color: #1F1F1D;
+  background: #F5F1E8;
   font-family: 'Inter', system-ui, sans-serif;
   font-size: 16px;
 }
