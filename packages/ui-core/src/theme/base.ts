@@ -12,12 +12,12 @@ export interface Theme {
 }
 
 export const baseTheme: Theme = {
-  name: 'base',
+  name: 'trimindslabs-corporate',
   primary: '#2563EB',
-  secondary: '#0EA5E9',
-  background: '#F8FAFC',
-  surface: '#FFFFFF',
-  text: '#0F172A',
+  secondary: '#6B675F',
+  background: '#F5F1E8',
+  surface: '#FFFDF8',
+  text: '#1F1F1D',
   density: 'comfortable',
-  radius: 10
+  radius: 8
 };
