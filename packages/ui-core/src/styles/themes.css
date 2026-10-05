@@ -1,20 +1,12 @@
-/* themes.css */
+/* Trimindslabs Corporate UI Standard */
 :root {
   --theme-primary: var(--color-primary);
   --theme-background: var(--color-background);
 }
 
-[data-theme='vector-ai'] {
-  --theme-primary: #4F46E5;
-  --theme-background: #EEF2FF;
-}
-
-[data-theme='ocl'] {
-  --theme-primary: #0F172A;
-  --theme-background: #111827;
-}
-
+[data-theme='vector-ai'],
+[data-theme='ocl'],
 [data-theme='satellite'] {
-  --theme-primary: #0EA5E9;
-  --theme-background: #F0F9FF;
+  --theme-primary: var(--color-primary);
+  --theme-background: var(--color-background);
 }
