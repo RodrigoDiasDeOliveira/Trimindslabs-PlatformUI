@@ -1,14 +1,14 @@
 export const mockThemeConfig = {
   colors: {
-    primary: '#0ea5e9',
-    primaryForeground: '#ffffff',
-    secondary: '#64748b',
-    accent: '#eab308',
-    background: '#ffffff',
-    foreground: '#0f172a',
-    border: '#e2e8f0',
-    muted: '#f1f5f9',
-    destructive: '#ef4444',
+    primary: '#2563EB',
+    primaryForeground: '#FFFDF8',
+    secondary: '#6B675F',
+    accent: '#EEE9DF',
+    background: '#F5F1E8',
+    foreground: '#1F1F1D',
+    border: '#D6CFC2',
+    muted: '#EEE9DF',
+    destructive: '#B91C1C',
   },
   radius: {
     lg: '0.75rem',
@@ -28,6 +28,6 @@ export const mockTrimindsConfig = {
     defaultCollapsed: false,
   },
   branding: {
-    companyName: 'Triminds',
+    companyName: 'Trimindslabs',
   },
 }
