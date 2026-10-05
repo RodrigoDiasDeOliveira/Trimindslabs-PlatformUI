@@ -13,7 +13,10 @@
     },
     "./styles": "./src/tailwind.css"
   },
-  "files": ["dist", "src/tailwind.css"],
+  "files": [
+    "dist",
+    "src/tailwind.css"
+  ],
   "scripts": {
     "dev": "vite build --watch",
     "build": "vite build && tsc -p tsconfig.build.json",
@@ -39,8 +42,8 @@
     "tailwind-merge": "^2.5.4"
   },
   "peerDependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react": "^18.3.0 || ^19.0.0",
+    "react-dom": "^18.3.0 || ^19.0.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.6.3",
