@@ -40,7 +40,7 @@ describe('ThemeProvider', () => {
       </ThemeProvider>
     )
     const primaryColor = screen.getByTestId('primary-color')
-    expect(primaryColor.textContent).toBe('#0ea5e9')
+    expect(primaryColor.textContent).toBe('#2563EB')
   })
 
   it('applies custom initialConfig', () => {
