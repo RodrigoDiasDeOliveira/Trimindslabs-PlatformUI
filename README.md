@@ -174,6 +174,8 @@ export default function App() {
 
 ## Documentation
 
+The ADRs record decisions and target architecture; they do not by themselves prove that every package, state-management layer, router, plugin or tenant runtime is implemented. See the [Platform UI ADR-to-implementation evidence review](docs/platform-ui-adr-implementation-evidence-2026-10-11.md) for the source-level matrix and current workspace/CI boundaries.
+
 * docs/architecture.md
 * docs/adr/
 
