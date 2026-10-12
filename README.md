@@ -215,3 +215,8 @@ Submit a Pull Request
 Internal — Triminds © 2026
 
 Made with ❤️ by Triminds Team
+
+
+## Architecture decisions
+
+The UI-core ADR index is available at [packages/ui-core/docs/adr/README.md](packages/ui-core/docs/adr/README.md). Those records govern the shared design-system package; they do not establish that every planned extension, multi-tenant capability, or consuming product is implemented or deployed.
